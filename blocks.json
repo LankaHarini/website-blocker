@@ -1,0 +1,23 @@
+[
+  {
+    "domain": "wikipedia.org",
+    "start": "12:40",
+    "end": "12:45",
+    "enabled": true,
+    "added": "2026-01-31 12:39"
+  },
+  {
+    "domain": "facebook.com",
+    "start": "19:50",
+    "end": "19:55",
+    "enabled": true,
+    "added": "2026-03-15 19:50"
+  },
+  {
+    "domain": "instagram.com",
+    "start": "19:51",
+    "end": "19:55",
+    "enabled": true,
+    "added": "2026-03-15 19:51"
+  }
+]
