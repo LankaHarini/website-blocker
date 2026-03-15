@@ -66,7 +66,7 @@ FocusGuard/
 
 ---
 
-## 🎨 UI Features
+##  UI Features
 
 - **Add Block** — Set a domain and a start/end time window.
 - **Toggle** — Enable/disable any block without deleting it.
