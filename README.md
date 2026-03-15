@@ -1,17 +1,17 @@
-# 🛡️ FocusGuard — Website Blocker
+#  FocusGuard — Website Blocker
 
 Block distracting websites for specific time windows. Blocks apply automatically and lift when the scheduled window ends.
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 - **Python 3.7+**
 - **Flask** (`pip install flask`)
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Windows
 1. Open **Command Prompt as Administrator** (right-click → Run as administrator).
@@ -38,11 +38,11 @@ Block distracting websites for specific time windows. Blocks apply automatically
    ```
 3. Open **http://127.0.0.1:5000**
 
-> ⚠️ **Administrator / Root access is required** because the app modifies the system `hosts` file to block sites.
+> **Administrator / Root access is required** because the app modifies the system `hosts` file to block sites.
 
 ---
 
-## ✨ How It Works
+##  How It Works
 
 | Step | What happens |
 |------|-------------|
@@ -53,7 +53,7 @@ Block distracting websites for specific time windows. Blocks apply automatically
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 ```
 FocusGuard/
